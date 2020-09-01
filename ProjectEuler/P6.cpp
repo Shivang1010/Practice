@@ -7,16 +7,16 @@
 #include <stdbool.h>
 
 int main(){
-    int t; 
-    scanf("%d",&t);
+    long int t; 
+    scanf("%ld",&t);
     for(int a0 = 0; a0 < t; a0++){
-        int n; 
-        scanf("%d",&n);
-        int i,sumsquare,squaresum;
-        int sum1=0;
-        int sum2=0;
-        int diff;
-        for(int i=1;i<=n;i++){
+        long int n; 
+        scanf("%ld",&n);
+        long int i,sumsquare,squaresum;
+        long int sum1=0;
+        long int sum2=0;
+        long int diff;
+        for(i=1;i<=n;i++){
             sum1=sum1+i;
             }
             sumsquare=sum1*sum1;
@@ -26,11 +26,12 @@ int main(){
         }
         squaresum=sum2;
         diff=sumsquare-squaresum;
-        printf("%d\n",diff);
+        printf("%ld\n",diff);
 
     }
     return 0;
 }
+
 
 /*
 Input (stdin)
