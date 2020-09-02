@@ -1,4 +1,10 @@
+'''
+still error in this approach
+'''
+
+
 max_sum = 0
+grid=[]
 for j in range(20):
     for i in range(20):
         if j<17: 
