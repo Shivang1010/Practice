@@ -153,3 +153,58 @@ Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 1
 One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)? 窗体顶端 1/13 3/13 (ANS) 1/4 9/52
 
 A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water? 窗体顶端 12 kmph 13 kmph 14 kmph 15 kmph (ANS)
+
+
+1. 11, 23, 47, 83, 131, . What is the next number?
+a. 145
+b. 178
+c. 176
+d. 191
+Explanation:
+11,23,47,83,131
+23–11 = 12
+47–23 = 24
+83–47 = 36
+131–83 = 48
+Therefore, 131+60=191
+2. A series of book was published at seven year intervals. When the seventh book was published the 
+total sum of publication year was 13, 524. First book was published in?
+a. 1911
+b. 1910
+c. 2002
+d. 1932
+Answer:
+Explanation:
+Let the years be n, n+7, n+14, ...., n+42. (∵∵ use formula Tn=a+(n−1)dTn=a+(n−1)d to find nth term)
+Sum = Sn=n2(2a+(n−1)d)Sn=n2(2a+(n−1)d) = 72(2n+(7−1)7)72(2n+(7−1)7) = 13,524
+⇒7n+147=13,524⇒7n+147=13,524
+⇒⇒ n = 1911
+3. Crusoe hatched from a mysterious egg discovered by Angus, was growing at a fast pace that Angus 
+had to move it from home to the lake. Given the weights of Crusoe in its first weeks of birth as 5, 15, 
+30,135, 405, 1215, 3645. Find the odd weight out.
+a) 3645 
+b) 135 
+c) 30 
+d) 15
+Answer: c
+Explanation:
+5×3 = 15
+15×3 = 45 ⇒⇒ Given as 30
+45×3 = 135
+135×3 = 405
+405×3 = 1215
+1215×3 = 3645
+4. A can complete a piece of work in 8 hours, B can complete in 10 hours and C in 12 hours. If A,B, C 
+start the work together but A laves after 2 hours. Find the time taken by B and C to complete the 
+remaining work.
+1) 2 (1/11) hours
+2) 4 (1/11) hours
+3) 2 (6/11) hours
+4) 2 hours
+Explanation:
+A,B,C's 1 hour work is = 18+110+11218+110+112 = 15+12+10120=3712015+12+10120=37120
+A,B,C worked together for 2 hours, Therefore, 2 hours work is = 37120×2=376037120×2=3760
+Remaining work = 1−3760=23601−3760=2360
+(23/60 work is done by B and C together)
+B, C's 1 hour work = 110+112=6+560=1160110+112=6+560=1160
+(2360)th(2360)th part of the work done by B, C in = (2360)1160(2360)1160 = 21112111 hours.
