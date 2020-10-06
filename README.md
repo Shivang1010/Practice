@@ -1,4 +1,31 @@
 # Practice
+
+19. 70, 54, 45, 41……. What is the next number in the given series?
+a. 35
+b. 36
+c. 38
+d. 40
+Correct option: d
+Explanation:
+Consecutive squares are subtracted from the numbers.
+70 - 54 = 16
+54 - 45 = 9
+45 - 41 = 4
+So next we have to subtract 1. So answer = 41 - 1 = 40
+20. How many positive integers less than 500 can be formed using the numbers 1,2,3,and 5 for digits, 
+each digit being used only once.
+a. 52
+b. 68
+c. 66
+d. 34
+Correct option:
+Explanation:
+Single digit number = 4
+Double digit number = 4××3 = 12
+Three digit numbers = 3××3××2= 18 (∵∵ If Hundred's place is 5, then the number is greater than 500)
+Total = 34.
+
+
 A set of tiles numbered 1 through 100 is modified repeatedly by the following operation: remove all tiles numbered with a perfect square and renumber the remaining tiles consecutively starting with 1. How many times must the operation be performed to reduce the number of tiles in the set to one? Ans- 18
 
 252 can be expressed as a product of primes as: Ans- 2x2x3x3x7
