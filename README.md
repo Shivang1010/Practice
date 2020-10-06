@@ -208,3 +208,141 @@ Remaining work = 1−3760=23601−3760=2360
 (23/60 work is done by B and C together)
 B, C's 1 hour work = 110+112=6+560=1160110+112=6+560=1160
 (2360)th(2360)th part of the work done by B, C in = (2360)1160(2360)1160 = 21112111 hours.
+
+
+
+
+8. A sum of Rs.3000 is distributed among A, B, and C. A gets 2/3 of what B and C got together and c gets 
+1/3 of what A and B got together, C's share is?
+Explanation:
+Let B+C together got 3 units, then A get 2 units. or B+CA=32B+CA=32 - - - (1)
+Let A+B together got 3 units, then B get 1 units. or A+BC=31A+BC=31 - - - (2)
+By using Componendo and Dividendo, we can re-write equations (1) and 
+(2), A+B+CA=3+22=52=208A+B+CA=3+22=52=208 and A+B+CC=3+11=41=205A+B+CC=3+11=41=2
+05
+So A = 8, B = 7, C = 5
+C's share = 5(8+5+7)×3000=7505(8+5+7)×3000=750
+9. The numbers 272738 and 232342, when divided by n, a two digit number, leave a remainder of 13 and 
+17 respectively. Find the sum of the digits of n?
+a. 7
+b. 8
+c. 5
+d. 4
+Explanation:
+From the given information, (272738 - 13, 232342 - 17) are exactly divisible by that two digit number.
+We have to find the HCF of the given numbers 272725, 232325. 
+HCF = 25.
+So sum of the digits = 7.
+10. Assume that f(1)=0 and f(m+n)=f(m)+f(n)+4(9mn-1). For all natural numbers (Integers>0)m and n. 
+ What is the value of f(17)? 
+a. 5436
+b. 4831
+c. 5508
+d. 4832
+Explanation:
+f(1) = 0
+f(2) = f(1+1) = f(1)+f(1)+4(9×1×1 – 1) = 0+0+4×8 = 32
+f(4) = f(2+2) = f(2)+f(2)+4(9×2×2 – 1) = 32+32+4×35 = 204
+f(8) = f(4+4) = f(4)+f(4)+4(9×4×4 – 1) = 204+204+4×143 = 980
+f(16) = f(8+8) = f(8)+f(8)+4(9×8×8 – 1) = 980+980+4×575 = 4260
+f(17) = f(1+16) = f(16)+f(1)+4(9×16×1 –1) = 4260+0+ 4×143 = 4832
+11. The perimeter of a equilateral triangle and regular hexagon are equal. Find out the ratio of their 
+areas?
+a. 3:2
+b. 2:3
+c. 1:6
+d. 6:1
+Correct Option: b
+Explanation:
+Let the side of the equilateral triangle = aa units and side of the regular hexagon is bb units.
+Given that, 3a=6b3a=6b ⇒ab=21⇒ab=21
+Now ratio of the areas of equilateral triangle and hexagon = 3√4a2:33√2b234a2:332b2
+⇒3√4(2)2:33√2(1)2⇒34(2)2:332(1)2
+⇒2:3⇒2:3
+12. What is the remainder of (32^31^301) when it is divided by 9?
+a. 3
+b. 5
+c. 2
+d. 1
+Correct option: b
+Explanation:
+See solved example 6 here
+3231301932313019 = 53130195313019
+Euler totient theorem says that [aϕ(n)n]Rem=1[aϕ(n)n]Rem=1
+ϕ(n)=n(1−1a)(1−1b)...ϕ(n)=n(1−1a)(1−1b)... here n=ap.bq...n=ap.bq...
+Now ϕ(9)=9(1−13)=6ϕ(9)=9(1−13)=6
+Therefore, 5656 when divided by 9 remainder 1.
+Now 313016=1301=1313016=1301=1
+So 3130131301 can be written as 6k + 1
+⇒531301=(56)K.51⇒531301=(56)K.51
+5313019=(56)K.519=1K.59=55313019=(56)K.519=1K.59=5
+13. Which of the following numbers must be added to 5678 to give a reminder 35 when divided by 460?
+a. 980
+b. 797
+c. 955
+d. 618
+Correct option: b
+Explanation:
+Let xx be the number to be added to 5678.
+When you divide 5678 + xx by 460 the remainder = 35.
+Therefore, 5678 + xx = 460k + 35 here kk is some quotient.
+⇒⇒ 5643 + xx should exactly divisible by 460.
+Now from the given options x = 797.
+14. A girl entered a store and bought x flowers for y dollars (x and y are integers). When she was about to 
+leave, the clerk said, “If you buy 10 more flowers I will give you all for $$2, and you will save 80 cents a 
+dozen”. The values of x and y are:
+a. (15,1)
+b. (10,1)
+c. (5,1)
+d. Cannot be determined from the given information.
+Correct option: c
+Explanation:
+Given she bought xx flowers for yy dollars.
+So 1 flower cost = yxyx
+12 flowers or 1 dozen cost = 12yx12yx
+Again, xx+10 cost = 2 dollars
+1 flower cost = 210+x210+x
+12 flowers or 1 dozen cost = 2×1210+x=2410+x2×1210+x=2410+x
+Given that this new dozen cost is 80 cents or 4/5 dollar less than original cost.
+⇒12yx−2410+x=45⇒12yx−2410+x=45
+From the given options, c satisfies this.
+15. If a number is divided by 357 the remainder is 5, what will be the remainder if the number is divided 
+by 17?
+a. 9
+b. 3
+c. 5
+d. 7
+Correct option: c
+Explanation:
+Let ′N′′N′ be the given number.
+N=357k+5N=357k+5 = 17×21k+517×21k+5
+If this number is divided by 17 remainder is 5 as 357k is exactly divided by 17.
+16. In how many possible ways can write 3240 as a product of 3 positive integers a,b and c.
+a. 450
+b. 420
+c. 350
+d. 320
+Correct option:
+Explanation:
+3450=23×34×51=a×b×c3450=23×34×51=a×b×c
+We have to distribute three 2's to a, b, c in 3+3−1C3−1=5C2=103+3−1C3−1=5C2=10 ways
+We have to distribute four 3's to a, b, c in 3+4−1C3−1=6C2=153+4−1C3−1=6C2=15 ways
+We have to distribute one 5 to a, b, c in 3 ways.
+Total ways = 10×15×3=45010×15×3=450 ways.
+17. On door A - It leads to freedom
+On door B - It leads to Ghost house
+On door C - door B leads to Ghost house
+The statement written on one of the doors is wrong.
+Identify which door leads to freedom.
+a. A
+b. B
+c. C
+d. None
+Correct option: c
+Explanation:
+Case 1: A, B are true. In this case, Statement C also correct. So contradiction.
+Case 2: B, C are true. In this case, B leads to ghost house and C confirms it. Now A is wrong. So door A 
+does not lead to freedom. So Door C leads to freedom.
+
+
+
