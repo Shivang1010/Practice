@@ -371,5 +371,116 @@ Case 1: A, B are true. In this case, Statement C also correct. So contradiction.
 Case 2: B, C are true. In this case, B leads to ghost house and C confirms it. Now A is wrong. So door A 
 does not lead to freedom. So Door C leads to freedom.
 
+What is the difference between C and C++?
+9) What do you mean by polymorphism?
+10) Give an example of polymorphism with code.
+11) What do you mean by OOP?
+12) What is inheritance?
+13) What is a friend function?
+14) What is an abstract class?
+
+15) Suppose there is a number 235 such that sum of first two digits is equal to the third digit. How many such 3 digits number are possible?
+16) Why is the VIRTUAL keyword used in C++?
+17) Which keyword is written to use a variable declared in one class in the other class?
+18) Suppose a code is written in C and you want to use that code in C++. How can you do that?
+
+19) What do you mean by DML?
+20) Is there any language other than SQL where DML is used? If yes, then which?
+
+21) How many normal forms do we have?
+22) Here is a tic-tac-toe game which is being played by 2 people:
+x o _
+o _ _
+x o x
+_ represent the blank spaces. Who played the last chance (x or o)?
+
+
+Question 1: What is a transaction? Properties of Transaction?
+
+Question 2: What “condition” will be written in the if statement such that both Hello World are printed when the following code is executed.
+if(condition)
+{
+printf(“Hello”);
+}
+else
+{
+printf(“World”);
+}
+
+Question 3: What will be the output of the following code?
+int i=5;
+printf(“%d, %d, %d”, i++, i, ++i);
+Which C compiler do you use?
+
+
+- -> 1: Introduce yourself?
+- -> 2: Your family background; father, mother, siblings.
+- -> 3: What was the need of bringing Information Technology in India?
+- -> 4: How does TCS earns its revenues? How it does its business?
+- -> 5: There is a round cake. You have 3 chances to cut the cake. Divide the cake into 8 pieces in these 3 chances.
+- -> 7: You have a good communication skill. Why is it so? Is it because of your schooling or family atmosphere? Whom do you give the credit for this?
+- -> 8: Suppose if I reject you today, what will Question 1: Write the pointer representation of a[i][j][k].
+Question 2: i = 5
+i++, ++i, --i, i--, 5
+What will be the output if it is printed?
+Question 3: How will you insert a new node between any two nodes in a linked list? Write the code.
+Question 4: How will you find a particular data in the linked list?
+Question 5: What is MD5?
+Question 6: What is RSA? Explain its principle.
+Question 7: There is a triangle and 3 ants on each vertex of the triangle. The 3 ants start to move randomly along the edges of the triangle. What is the probability that two ants will collide?
+Question 8: What is the difference between C and C++?
+Question 9: What do you mean by polymorphism?
+Question 10: Give an example of polymorphism with code.
+Question 11: What do you mean by OOP?
+Question 12: What is inheritance?
+Question 13: What is a friend function?
+Question 14: What is an abstract class?
+Question 15: Suppose there is a number 235 such that sum of first two digits is equal to the third digit. How many such 3 digits number are possible?
+Question 16: Why is the VIRTUAL keyword used in C++?
+Question 17: Which keyword is written to use a variable declared in one class in the other class?
+Question 18: Suppose a code is written in C and you want to use that code in C++. How can you do that?
+Question 19 What do you mean by DML?
+Question 20: Is there any language other than SQL where DML is used? If yes, then which?
+Question 21: How many normal forms do we have?
+Question 22: Here is a tic-tac-toe game which is being played by 2 people:
+x o _
+o _ _
+x o x
+_ represent the blank spaces. Who played the last chance (x or o)?
+
+
+Question 1: What is a transaction? Properties of Transaction?
+Question 2: What "condition" will be written in the if statement such that both Hello World are printed when the following code is executed.
+if(condition)
+{
+printf("Hello");
+}
+else
+{
+printf("World");
+}
+Question 3: What will be the output of the following code?
+int i=5;
+printf("%d, %d, %d", i++, i, ++i);
+Which C compiler do you use? (My friend said TURBO)
+What will be the output of above code in TURBO compiler? (He said SAME)
+No! It will not be the same.
+After the technical round, there was an MR i.e. Managerial Round.
+It was just a 2-3 minutes round. The interviewer asked me to introduce myself. Then asked about my father. Then core values and strengths. Your hobbies? Which latest novel have you read?
+Next was the HR round. This was a little time taking round as the technical one.
+Question 1: Introduce yourself?
+Question 2: Your family background; father, mother, siblings.
+Question 3: How does TCS earns its revenues? How it does its business?
+Question 4: What was the need of bringing Information Technology in India?
+Question 5: There is a round cake. You have 3 chances to cut the cake. Divide the cake into 8 pieces in these 3 chances.
+Question 6: Suppose if I reject you today, what will you do next?
+Question 7: You have a good communication skill. Why is it so? Is it because of your schooling or family atmosphere? Whom do you give the credit for this?
+Question 8: What are your strengths? Give 2 examples of your life incidents that portray this strength in you.
+Question 9: What are your weaknesses?
+ you do next?
+- -> 9: What are your strengths? Give 2 examples of your life incidents that portray this strength in you.
+- -> 10: What are your weaknesses?
+
+
 
 
